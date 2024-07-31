@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abdullahshahadd
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (abdullahshahadd2@gmail.com)
 
 <!---
