@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @abdullahshahadd
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning java
+- 👋 Hi, I’m @abdullahshahadd.
+- 👀 I’m interested in Cloud Engineering.
+- 🌱 I’m currently learning java.
 - 📫 How to reach me (abdullahshahadd2@gmail.com)
 
 <!---
